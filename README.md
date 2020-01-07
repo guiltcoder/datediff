@@ -23,9 +23,3 @@ let end_date = NaiveDate::from_ymd(1950, 1, 26);
 
 println!("Duration is {}", get_diff(&start_date, &end_date));
 ```
-
-### Output
-
-```
-
-```
