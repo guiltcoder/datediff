@@ -13,7 +13,7 @@ datediff = "0.1"
 
 ## Quick Start
 
-```
+```rust
 use chrono::NaiveDate;
 
 use datediff::get_diff;
